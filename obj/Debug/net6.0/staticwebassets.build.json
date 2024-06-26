@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "BNwRXKLQeVti2PG4q+1euN9zhNKiT+dsJIMeA7AdJ84=",
+  "Source": "ProductCatalogAPI",
+  "BasePath": "_content/ProductCatalogAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductCatalogAPI\\wwwroot",
+      "Source": "ProductCatalogAPI",
+      "ContentRoot": "C:\\DEVELOPER\\.NET\\ProductCatalogAPI\\wwwroot\\",
+      "BasePath": "_content/ProductCatalogAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\DEVELOPER\\.NET\\ProductCatalogAPI\\wwwroot\\Images\\ea968523-df0d-4d62-a715-21187a17c9be.png",
+      "SourceId": "ProductCatalogAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\DEVELOPER\\.NET\\ProductCatalogAPI\\wwwroot\\",
+      "BasePath": "_content/ProductCatalogAPI",
+      "RelativePath": "Images/ea968523-df0d-4d62-a715-21187a17c9be.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\ea968523-df0d-4d62-a715-21187a17c9be.png"
+    }
+  ]
+}
